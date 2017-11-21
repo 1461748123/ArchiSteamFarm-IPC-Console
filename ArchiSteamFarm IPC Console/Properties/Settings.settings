@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ASF_IPC_Console.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1242</Value>
+    </Setting>
+    <Setting Name="command1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="command2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pause</Value>
+    </Setting>
+    <Setting Name="command3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">resume</Value>
+    </Setting>
+    <Setting Name="command4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2fa</Value>
+    </Setting>
+    <Setting Name="command1name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Status</Value>
+    </Setting>
+    <Setting Name="command2name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pause</Value>
+    </Setting>
+    <Setting Name="command3name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Resume</Value>
+    </Setting>
+    <Setting Name="command4name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2FA</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

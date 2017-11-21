@@ -1,0 +1,10 @@
+d:\users\brian\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+d:\users\brian\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+d:\users\brian\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+d:\users\brian\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form1.resources
+d:\users\brian\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+d:\users\brian\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.Cache
+d:\users\brian\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+d:\users\brian\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\bin\Debug\ASF_IPC_Console.exe.config
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\bin\Debug\ASF_IPC_Console.exe
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\bin\Debug\ASF_IPC_Console.pdb
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\obj\Debug\ASF_IPC_Console.Form1.resources
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\obj\Debug\ASF_IPC_Console.Form2.resources
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\obj\Debug\ASF_IPC_Console.Properties.Resources.resources
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\obj\Debug\ArchiSteamFarm IPC Console.csproj.GenerateResource.Cache
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\obj\Debug\ArchiSteamFarm IPC Console.csproj.CoreCompileInputs.cache
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\obj\Debug\ASF_IPC_Console.exe
+D:\Users\Brian\Documents\Visual Studio 2017\Projects\ArchiSteamFarm IPC Console\ArchiSteamFarm IPC Console\obj\Debug\ASF_IPC_Console.pdb
